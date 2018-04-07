@@ -1,1 +1,1 @@
-# ditigal-calculator
+# Digital Calculator
