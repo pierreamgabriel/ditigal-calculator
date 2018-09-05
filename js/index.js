@@ -1,5 +1,3 @@
-/* Javascript digital calculator, developed by Pierre Macedo */
-
 function type1() {
   deletezero();
   hideR();
